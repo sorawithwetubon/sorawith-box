@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali&display=swap');
+
+html {
+    color: #FFFFFF;
+    background-color: #000000;
+    font-family: 'Mali', cursive;
+    padding: 20px;
+}
+
+
+.title-text {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.card-div {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: #FFFFFF solid 2.5px;
+}
+
+.card-text {
+    font-size: 17.5px;
+    margin-bottom: 10px;
+}
+
+.card-description {
+    font-size: 12.5px;
+}
